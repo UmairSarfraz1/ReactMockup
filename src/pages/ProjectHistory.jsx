@@ -1,6 +1,6 @@
 import React from "react";
 import DeliveryTable from "../components/DeliveryTable";
-import Sidebar from "../components/Sidebar";
+import Sidebar from "../components/SideBar";
 import { deliveries } from "../data/dummyData";
 import { HiMenu } from "react-icons/hi";
 import { useSidebar } from "../contexts/SidebarContext";
