@@ -1,7 +1,7 @@
 import React from "react";
 import { HiDownload, HiMenu } from "react-icons/hi";
 import ProgressBar from "../components/ProgressBar";
-import Sidebar from "../components/Sidebar";
+import Sidebar from "../components/SideBar";
 import { userData, projects, latestDelivery } from "../data/dummyData";
 import { useSidebar } from "../contexts/SidebarContext";
 
